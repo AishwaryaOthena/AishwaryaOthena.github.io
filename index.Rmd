@@ -18,7 +18,16 @@ Contact Info {#contact}
 - <i class="fa fa-github"></i> [github.com/AishwaryaOthena](http://github.com/AishwaryaOthena/)
 - <i class="fa fa-home"></i> [My Homepage](https://aishwaryaothena.github.io)
 
-##I am a PhD candidate at the International Institute of Information Technology, Bangalore, working at the intersection of disability studies, accessibility and assistive technology to analyze educational systems for children who are blind and visually impaired living in the Global South.  
+Summary {#Summary} 
+--------------------------------------------------------------------------------
+
+- I am a PhD candidate at the International Institute of Information Technology, Bangalore, working at the intersection of disability studies, accessibility and assistive technology to analyze educational systems for children who are blind and visually impaired living in the Global South.  
+
+### Research Interests
+
+        - Disability studies and accessibility in the Global South
+- Inclusive education
+-  Ethnography and action research
 
 Skills {#skills}
 --------------------------------------------------------------------------------
@@ -37,7 +46,7 @@ Skills {#skills}
 
 - #### Document Creation Environments
 
--Can create documents using Markdown, Markdown, LaTex and Microsoft Office.
+-Is familiar with creating documents using Markdown, RMarkdown, LaTex and Microsoft Office.
 
 Main
 ================================================================================
@@ -59,7 +68,7 @@ January 2021 - July 2021
 - Analysed and documented  the art-making practices of 10 visually impaired artists around the world.
     - Conducted studies to understand the semiotics of tactile art.
 
-### Senior Educational Coordinator
+### Educational Coordinator
 
 Vision Empower
 
@@ -98,233 +107,135 @@ May 2017
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Kansas State University
+### International Institute of Information Technology
 
-Graduate Certificate in Data Analytics
+PhD in It and Society (Currently Pursuing)
 
-Manhattan, KS, USA
+Bangalore, Karnataka, India
 
-2017
+2020 - Present
 
-### Kansas State University
+- ** Area of work:** disability and assistive technology
+- Interested in creating tactile art opportunities for children who are blind in India.
 
-M.S. in Statistics
+### Azim Premji University
 
-Manhattan, KS, USA
+MA. Development
 
-2016
+Bangalore, Karnataka, India
 
-### South China Normal University
+2017 - 2019
 
-B.S. in Bioengineering
+- **CGPA**: 8.8
+- **Research project:** Analysed the special education policy in Kerala, particularly with regard to the transition from a special school to a regular school. 
 
-Guangzhou, China
+### Sacred Heart College, Mahatma Gandhi University
 
-2013
+BA. Economics
 
+Kerala, India
 
-R/ Shiny Publications {data-icon=file}
+2014 - 2017
+
+- Project: Consumer perceptions about organic food.  
+
+ Conference Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Building an Interactive Tutorial Website for R and Statistics
+### Performing Qualitative Data Analysis as a Blind Researcher: Challenges, Workarounds and Design Recommendations
+In The 24th International ACM SIGACCESS Conference on Computers and Accessibility(ASSETS ’22). [DOI](https://doi.org/10.1145/3517428.3551356
 
-C2C Digital Magazine: Vol. 1 : Iss. 10 , Article 7. 
+N/A
+
+2022
+
+O. Aishwarya
+
+### Teachers’ Perceptions around Digital Games for Children in Low-resource Schools for the Blind 
+
+In CHI Conference on Human Factors in Computing Systems (CHI ’21)
+
+N/A
+
+2021
+
+With Gesu India, Vidhya Y, Nirmalendu Diwakar, Mohit Jain, Aditya Vashistha, and Manohar Swaminathan
+
+Poster Presentations {data-icon=file}
+--------------------------------------------------------------------------------
+
+### A participatory Design Approach for the Global South: Lessons from Designing a Tool for the Comprehension of Tactile Graphics for Children with Visual Impairments in India 
+
+Empower, 2022 
+
+N/A
+
+2022
+
+With Amit Prakash and Supriya Dey
+
+### Play to Learn and Learn to Play: Designing Card games for Inculcating Numeracy Skills for children with Visual Impairments
+
+Empower, 2019
 
 N/A
 
 2019
 
-Jiena Gu McLellan
+With Amit Prakash, Supriya Dey, Manohar Swaminathan, Gesu India, and Jyoti Bhisht.
 
+Presentations {data-icon=file}
+--------------------------------------------------------------------------------
 
+###  State of the Art in Assistive Technology for People with Visual Disabilities Empower, 2022 
+
+Invited guest lecture at the Workshop on Assistive Technology for Rehabilitation Professionals, Organized by the Rehabilitation Council of India. 
+
+N/A
+
+2022
+
+O. Aishwarya
+
+### Tactile Art: from Hobby to Research
+
+At the Workshop on Tactile Interactivity, Organized by the Disability Innovation Hub and Center for Accessibility in the Global South at IIITB.
+
+N/A
+
+2022
+
+O. Aishwarya
+
+### Hands-on and Hand-in-hand: Building Virtual Makerspaces that are Accessible to people with Visual Disabilities
+
+At the Workshop on Accessible AR and VR Systems. in CHI2021.
+
+N/A
+
+2021
 
 ::: aside
 
-- #### faq
+Fellowships and Scholarships {#Fellowships and Scholarships}
 
-![faq](https://raw.githubusercontent.com/jienagu/faq/master/faq_logo.png){width=70%}
+- #### I Can Lead Fellow (2020-2021)
 
-- create a FAQ (Frequently Asked Questions) page
-- Repo: github.com/jienagu/faq
+- One of 12 women with disabilities selected for the fellowship, conducted by Rising Flame.
 
-- #### flashCard
+- #### Course on Designing and Creating Assistive Technology Solutions (2021)  
 
-![flashCard](https://raw.githubusercontent.com/jienagu/flashCard/master/man/figures/flashCard_hex.png){width=70%}
+- Scholarship  by National Institute of Speech and Hearing, Trivandrum
+    
 
-- create a flash card
-- github.com/jienagu/flashCard
+- #### Course on Methods and Statistics in Social Sciences
 
-- #### Skills:
+- Financed  by Coursera
 
-R, Python, javascript, Shiny, html, Rcpp (C++), CSS
 
-:::
+- #### Accessibility Training:  document accessibility Track  
 
-
-### Geographic Information Visualization by R
-
-C2C Digital Magazine: Vol. 1 : Iss. 8 , Article 4. 
-
-N/A
-
-2018
-
-Jiena Gu McLellan
-
-### Sentiment Analysis of Real-time Twitter Data
-
-C2C Digital Magazine: Vol. 1 : Iss. 7 , Article 8. 
-
-N/A
-
-2017
-
-Jiena Gu McLellan
-
-### Shiny App: An Efficient and Creative Communicator of Big Data
-
-C2C Digital Magazine: Vol. 1 : Iss. 6 , Article 6.
-
-N/A
-
-2016
-
-Jiena Gu 
-
-Peer-Reviewed Publications and Talks {data-icon=file}
---------------------------------------------------------------------------------
-### Effect of Duration and Onset of Clinical Signs on Short-Term Outcome of Dogs with Hansen Type I Thoracolumbar Intervertebral Disc Extrusion
-
-Veterinary and Comparative Orthopaedics and Traumatology
-
-N/A
-
-2020
-
-DA Upchurch, WC Renberg, HS Turner, **JG McLellan**
-
-### learnr: Interactive R tutorials
-
-TA for Yihui Xie (Instructor) at Advanced Rmarkdown Workshop at RStudio Conference 2019
-
-Austin, TX
-
-2019
-
-Jiena Gu McLellan
-
-
-### Evaluation of three classification models to predict risk class of cattle cohorts developing bovine respiratory disease within the first 14 days on feed using on-arrival and/or prearrival information. 
-
-Computers and Electronics in Agriculture. 156 (2019) 439-446.
-
-N/A
-
-2019
-
-David E. Amrine, **Jiena G. McLellan**, Brad J. White, Robert L. Larson, David G. Renter,
-Mike Sanderson.
-
-### Evaluation of animal-to-animal and community contact structures determined by a real-time location system for correlation with and prediction of new bovine respiratory disease diagnoses in beef cattle during the first 28 days after feedlot entry.
-
-American Journal of Veterinary Research [01 Dec 2018, 79(12):1277-1286]
-
-Kansas, USA
-
-2018
-
-Shane DD, **McLellan JG**, White BJ, Larson RL, Amrine DE, Sanderson MW, Apley MD.
-
-
-### R for Data Analytics & Interactive Visualization
-
-Manhattan Data Analytics Meetup
-
-Manhattan, KS
-
-2018
-
-Jiena Gu McLellan
-
-  
-
-Personal Shiny Projects {data-icon=file}
---------------------------------------------------------------------------------
-
-### DT Editor/ DT Editor Shiny Module
-
-- Intro: DT Editor Shiny App that has (almost) all features of data table editor.
-- Shiny Module: https://github.com/jienagu/DT_editor_shiny_module 
-
-N/A
-
-Repo: https://github.com/jienagu/DT-Editor 
-
-2019
-
-### rpivotTableMD
-
-- Intro: a shiny app demonstrates `rpivotTable` dynamically interacting with Rmarkdown reports (pdf or word) from a shiny app platform
-
-N/A
-
-Repo: https://github.com/jienagu/rpivotTableMD
-
-2019
-
-### D3 folded charts
-
-- Hierarchies Design of Data Visualization for shiny: Drilling down from graphs to table/graphs similar with Power BI; generate dynamic reports.
-
-N/A
-
-Repo: https://github.com/jienagu/D3_folded_charts
-
-2019
-
-### Shiny Template
-
-- Intro: a shiny template is to mimic questions/survey type of UI design to bring the best user-experience.
-
-N/A
-
-Repo: https://github.com/jienagu/Shiny_Template 
-
-2019
-
-### PlayR: Interacitve Tutorial Website
-
-- Intro: an interactive tutorial website (PlayR) built by learnr package.
-
-N/A
-
-Repo: https://github.com/jienagu/Interactive_tutorial_website 
-
-2019
-
-### Shiny Interactive Presentation
-
-- Intro: Generating interactive presentation from shiny side
-
-N/A
-
-Repo: https://github.com/jienagu/Shiny_Interactive_Presentation 
-
-2019
-
-
-Grant & Awards {data-icon=file}
---------------------------------------------------------------------------------
-
-### The Development Grant for MIS665 through K-State global campus
-
-Intro: Develop MIS 665 Business Analytics and Data Mining course 
-
-Manhattan
-KS
-
-2019
-
+- completed with  scholarship for persons with disabilities by Deque University
 
 ::: aside
 
