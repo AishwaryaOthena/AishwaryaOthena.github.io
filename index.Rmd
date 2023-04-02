@@ -25,9 +25,9 @@ Summary {#Summary}
 
 ### Research Interests
 
-        - Disability studies and accessibility in the Global South
+- Disability studies and accessibility in the Global South
 - Inclusive education
--  Ethnography and action research
+- Ethnography and action research
 
 Skills {#skills}
 --------------------------------------------------------------------------------
@@ -217,7 +217,8 @@ N/A
 
 ::: aside
 
-Fellowships and Scholarships {#Fellowships and Scholarships}
+Fellowships and Scholarships {#fellowships}
+--------------------------------------------------------------------------------
 
 - #### I Can Lead Fellow (2020-2021)
 
@@ -226,7 +227,6 @@ Fellowships and Scholarships {#Fellowships and Scholarships}
 - #### Course on Designing and Creating Assistive Technology Solutions (2021)  
 
 - Scholarship  by National Institute of Speech and Hearing, Trivandrum
-    
 
 - #### Course on Methods and Statistics in Social Sciences
 
@@ -237,7 +237,6 @@ Fellowships and Scholarships {#Fellowships and Scholarships}
 
 - completed with  scholarship for persons with disabilities by Deque University
 
-::: aside
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
